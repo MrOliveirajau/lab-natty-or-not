@@ -15,7 +15,7 @@ Olá pessoal, Venilton da DIO aqui! Inspirado na hype _"Natty or Not"_ do fisicu
     1. Faça o "fork" deste repositório, criando uma cópia em seu GitHub pessoal;
     2. Edite seu README com os detalhes do seu projeto, siga nosso [Template](#template) (é só copiar, colar e preencher);
     3. Submeta o link do seu repositório na plataforma da DIO. Pronto, você acabou de fortalecer seu portfólio de projetos nos perfis do GitHub e DIO 🚀
-1. **Efeito de Rede**: Compartilhe seus resultados nas redes sociais com a hashtag **#LabDIONattyOrNot**. Não esqueça de nos marcar: [DIO](https://www.linkedin.com/school/dio-makethechange) e [falvojr](https://www.linkedin.com/in/falvojr).
+1. **Efeito de Rede**: Compartilhe seus resultados nas redes sociais com a hashtag **#LabDIONattyOrNot**. Não esqueça de nos marcar: [DIO](https://www.linkedin.com/schorol/dio-makethechange) e [falvojr](https://www.linkedin.com/in/falvojr).
 
 ### Template
 
@@ -23,16 +23,26 @@ Olá pessoal, Venilton da DIO aqui! Inspirado na hype _"Natty or Not"_ do fisicu
 # Título do Projeto Extremamente Aesthetic ;)
 
 ## 📒 Descrição
-Breve descrição do seu projeto
+Meu projeto se trata de um ebook, que explica como
+funciona a IA generativa.
 
 ## 🤖 Tecnologias Utilizadas
 Liste as IAs Generativas e outras ferramentas usadas
+Google Gemini, para gerar os textos explicativos que utilizei no meu ebook.
+ Canva para editar o templante do ebook,
+e lexica para gerar as imagens utilizadas no ebook.
+
 
 ## 🧐 Processo de Criação
-Descreva como você criou o conteúdo
+Utilizei o google gemini, e pedi que gerasse um texto
+explicando como funciona a IA generativa, pedi que criasse
+um índice dos assuntos abordados. Utilizei um templante do canva e
+imagens geradas pelo Lexica.
 
 ## 🚀 Resultados
-Apresente os resultados do seu projeto
+O resultado foi um ebook com um texto com linguagem
+simples e bem explicado, sobre como funciona a IA
+generativa.
 
 ## 💭 Reflexão (Opcional)
 Comente sobre o desafio de criar algo 'natty' com IA.
