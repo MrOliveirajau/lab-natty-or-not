@@ -23,14 +23,12 @@ Olá pessoal, Venilton da DIO aqui! Inspirado na hype _"Natty or Not"_ do fisicu
 # Título do Projeto Extremamente Aesthetic ;)
 
 ## 📒 Descrição
-Meu projeto se trata de um ebook, que explica como
-funciona a IA generativa.
+ Ebook que explica como funciona a IA generativa.
 
 ## 🤖 Tecnologias Utilizadas
-Liste as IAs Generativas e outras ferramentas usadas
 Google Gemini, para gerar os textos explicativos que utilizei no meu ebook.
- Canva para editar o templante do ebook,
-e lexica para gerar as imagens utilizadas no ebook.
+Canva para editar o templante do ebook.
+Lexica para gerar as imagens utilizadas no ebook.
 
 
 ## 🧐 Processo de Criação
